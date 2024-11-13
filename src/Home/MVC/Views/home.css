@@ -1,0 +1,28 @@
+.outer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.logo-container {
+    position: relative;
+}
+.btn-container {
+    margin-top: 30px;
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    border-radius: 2px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}

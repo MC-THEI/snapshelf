@@ -1,0 +1,30 @@
+.logout-button {
+    background-color: #292929;
+    padding: 7px 25px;
+    border: 2px solid #E4E2DC;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color:#E4E2DC;
+}
+
+.logout-button:hover {
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.navbar-container {
+    background-color: #292929;
+}
+
+.link {
+    color: #E4E2DC;
+    padding-inline: .5rem;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #fff;
+}
+
+

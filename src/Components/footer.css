@@ -1,0 +1,9 @@
+.snap-footer {
+    position: absolute;
+    padding-block: 1rem;
+    width: 100%;
+    bottom: 0;
+    background-color: #292929;
+    color: #E4E2DC;
+
+}

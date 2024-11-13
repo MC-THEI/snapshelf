@@ -1,0 +1,24 @@
+.snap-card{
+    background-color: #292929;
+    padding: 1rem;
+}
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    border-radius: 2px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
+.text {
+    color: #fff;
+}
+
+.images {
+    width: 100px;
+    margin-bottom: 1rem;
+}
